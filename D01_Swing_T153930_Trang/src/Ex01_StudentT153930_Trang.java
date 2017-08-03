@@ -31,7 +31,7 @@ public class Ex01_StudentT153930_Trang extends JFrame{
 		
 		txtUsername = new JTextField("");
 		txtUsername.setLocation(30,80);
-		txtUsername.setSize(150,25);
+		txtUsername.setSize(150,20);
 		//
 		getContentPane().add(lblUsername);
 		getContentPane().add(txtUsername);
@@ -72,7 +72,7 @@ public class Ex01_StudentT153930_Trang extends JFrame{
 		
 		JLabel lblNewLabel = new JLabel("   LOGIN");
 		lblNewLabel.setFont(new Font("VnBandit", Font.PLAIN, 15));
-		lblNewLabel.setBounds(63, 11, 80, 43);
+		lblNewLabel.setBounds(72, 11, 80, 43);
 		getContentPane().add(lblNewLabel);
 		
 	}
