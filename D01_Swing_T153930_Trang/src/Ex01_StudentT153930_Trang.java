@@ -63,6 +63,7 @@ public class Ex01_StudentT153930_Trang extends JFrame{
 					JOptionPane.showMessageDialog(Ex01_StudentT153930_Trang.this, "Hello"+userName);
 				}else{
 					JOptionPane.showMessageDialog(Ex01_StudentT153930_Trang.this, "Login Fail");
+					
 				}
 				
 			}
